@@ -1,0 +1,10 @@
+[
+    {
+        "files": [ "../test.c" ],
+        "val-profile": "analyzer"
+    },
+    {
+        "files": [ "../alarm_in_global.c" ],
+        "val-profile": "analyzer"
+    }
+]
