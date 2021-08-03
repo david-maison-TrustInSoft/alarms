@@ -6,5 +6,10 @@
     {
         "files": [ "../alarm_in_global.c" ],
         "val-profile": "analyzer"
+    },
+    {
+        "files": [ "../test.c" ],
+        "val-profile": "analyzer",
+        "main": "alarm_printf"
     }
 ]
